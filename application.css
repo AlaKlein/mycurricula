@@ -10,6 +10,7 @@ body {
 
 #textBackground {
     background-color: white;
+    border-radius: 25px;
 }
 
     .imgpos {
