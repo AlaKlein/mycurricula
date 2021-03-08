@@ -1,0 +1,21 @@
+body {
+    width: 50%;
+    margin: auto;
+    background: url(background.jpg) center;
+    line-height: 1.25;
+
+    font-family: Arial;
+    font-size: 13px;
+}
+
+#textBackground {
+    background-color: white;
+}
+
+    .imgpos {
+        position: static;
+        float:right;
+         
+}
+    
+
