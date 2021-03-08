@@ -10,13 +10,18 @@ body {
 
 #textBackground {
     background-color: white;
+    border-radius: 25px;
+    padding: 20px;
 }
 
-    .imgpos {
-        border-radius: 25px;
-        padding: 20px; 
-        position: static;
-        float:right;   
+#photo {
+    border-radius: 25px;
+    padding: 20px; 
+}
+
+.imgpos {       
+    position: static;
+    float:right;   
 }
     
 
